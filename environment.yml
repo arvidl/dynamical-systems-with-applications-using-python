@@ -21,10 +21,10 @@ dependencies:
   - networkx
   - pip
   - pip:
-    - ddeint            # Scipy-based delay differential equation (DDE) solver (see also http://pydelay.sourceforge.net)
-    - PythonTurtle     # https://github.com/PythonTurtle/PythonTurtle
-    
-    
+    - ddeint       # Scipy-based delay differential equation (DDE) solver (see also http://pydelay.sourceforge.net)
+    - ipyturtle3   # https://github.com/williamnavaraj/ipyturtle3 (PythonTurtle https://github.com/PythonTurtle/PythonTurtle (not inline)
+
+
 
 
 # Install a DSAP kernel
@@ -32,5 +32,6 @@ dependencies:
 
 # To remove and reinstall the dsap environment (if installation problems):
 # conda deactivate
-# conda env remove -n dsap
-# conda env dsap
+# conda env remove -n dsap     # then, fix the environment
+# conda env update
+# conda activate
