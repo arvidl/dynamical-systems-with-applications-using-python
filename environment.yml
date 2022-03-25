@@ -7,24 +7,24 @@ channels:
 dependencies:
   - python=3.9
   - jupyter
-  - jupyter_contrib_nbextensio
+  - jupyter_contrib_nbextension
   - jupyterlab
   - ipython
   - ipywidgets
   - matplotlib
-  - mpl_toolkits
   - numpy
   - pandas
   - seaborn
   - sympy
   - scipy
   - turtle
-  - pylab
-  - pydelay
   - scikit-image
   - networkx
   - pip
-
+  - pip:
+    - ddint   # Scipy-based delay differential equation (DDE) solver (see also http://pydelay.sourceforge.net)
+    
+    
 
 
 # Install a DSAP kernel
