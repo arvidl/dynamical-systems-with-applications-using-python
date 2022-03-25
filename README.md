@@ -1,4 +1,4 @@
-### Stephen Lynch: Dynamical Systems with Applications using Python, Springer Source Code (with additions)
+### Stephen Lynch: Dynamical Systems with Applications using Python, Springer Source Code 
 
 This repository accompanies *Dynamical Systems with Applications Using Python* by [Stephen Lynch](https://scholar.google.co.uk/citations?user=LRBJKhIAAAAJ&hl=en) (Birkhäuser, 2018). Springer: [[Link](https://link.springer.com/book/10.1007/978-3-319-78145-7)] [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-78145-7.pdf)]
 
