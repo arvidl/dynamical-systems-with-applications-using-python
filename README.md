@@ -23,6 +23,10 @@ Manchester Metropolitan University, UK FIMA SFHEA
 
 See also [MAT230](https://www.uib.no/en/course/MAT230) (Nonlinear Differential Equations), UiB
 
+
+
+### [DSAP_Jupyter_Notebook.ipynb](https://nbviewer.org/github/arvidl/dynamical-systems-with-applications-using-python/blob/master/notebooks/DSAP_Jupyter_Notebook.ipynb)
+
 <!--
 
 ## Releases
