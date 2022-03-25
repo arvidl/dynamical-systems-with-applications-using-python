@@ -14,7 +14,7 @@ This repository accompanies *Dynamical Systems with Applications Using Python* b
 
 
 
-#### - [DSAP_Jupyter_notebook](http://www.doc.mmu.ac.uk/STAFF/S.Lynch/DSAP_Jupyter_Notebook.html)
+#### - [DSAP_Jupyter_notebook](http://www.doc.mmu.ac.uk/STAFF/S.Lynch/DSAP_Jupyter_Notebook.html) (HTML)
 by Dr [Stepen Lynch](http://www.doc.mmu.ac.uk/STAFF/S.Lynch), Department of Computing and Mathematics,
 Manchester Metropolitan University, UK FIMA SFHEA
 
@@ -25,7 +25,7 @@ See also [MAT230](https://www.uib.no/en/course/MAT230) (Nonlinear Differential E
 
 
 
-### [DSAP_Jupyter_Notebook.ipynb](https://nbviewer.org/github/arvidl/dynamical-systems-with-applications-using-python/blob/master/notebooks/DSAP_Jupyter_Notebook.ipynb)
+#### [DSAP_Jupyter_Notebook.ipynb](https://nbviewer.org/github/arvidl/dynamical-systems-with-applications-using-python/blob/master/notebooks/DSAP_Jupyter_Notebook.ipynb) Slightly updated/modified (A.L. 2022-03-25)
 
 <!--
 
