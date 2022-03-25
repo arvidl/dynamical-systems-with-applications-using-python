@@ -1,0 +1,20 @@
+
+name: dsap
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.8
+  - jupyter
+  - ipython
+  - matplotlib
+  - mpl_toolkits
+  - numpy
+  - sympy
+  - scipy
+  - turtle
+  - pylab
+  - pydelay
+  - scikit-image
+  

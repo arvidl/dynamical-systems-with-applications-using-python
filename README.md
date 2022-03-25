@@ -1,8 +1,26 @@
-﻿# Springer Source Code
+### Stephen Lynch: Dynamical Systems with Applications using Python, Springer Source Code (with additions)
 
-This repository accompanies *Dynamical Systems with Applications Using Python* by Stephen Lynch (Birkhäuser, 2018).
+This repository accompanies *Dynamical Systems with Applications Using Python* by [Stephen Lynch](https://scholar.google.co.uk/citations?user=LRBJKhIAAAAJ&hl=en) (Birkhäuser, 2018). Springer [[Link1](https://link.springer.com/book/10.1007/978-3-319-78145-7)] [[Link2](https://link.springer.com/content/pdf/10.1007%2F978-3-319-78145-7.pdf)]
 
-Download the files as a zip using the green button, or clone the repository to your machine using Git.
+
+
+#### - [ToC1](https://link.springer.com/book/10.1007/978-3-319-78145-7?page=1#toc),  [ToC2](https://link.springer.com/book/10.1007/978-3-319-78145-7?page=2#toc)
+
+
+#### - [About](https://link.springer.com/book/10.1007/978-3-319-78145-7?page=2#about)
+
+
+#### - [Reviews](https://link.springer.com/book/10.1007/978-3-319-78145-7?page=1#reviews)
+
+
+
+#### - [DSAP_Jupyter_notebook](http://www.doc.mmu.ac.uk/STAFF/S.Lynch/DSAP_Jupyter_Notebook.html)
+by Dr [Stepen Lynch](http://www.doc.mmu.ac.uk/STAFF/S.Lynch), Department of Computing and Mathematics,
+Manchester Metropolitan University, UK FIMA SFHEA
+
+![img](http://www.doc.mmu.ac.uk/STAFF/S.Lynch/Jupyter_DSAP_Title.png)
+
+<!--
 
 ## Releases
 
@@ -16,3 +34,4 @@ For corrections to the content in the published book, see the file errata.md.
 
 See the file Contributing.md for more information on how you can contribute to this repository.
 
+-->
