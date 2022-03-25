@@ -5,16 +5,32 @@ channels:
   - conda-forge
 
 dependencies:
-  - python=3.8
+  - python=3.9
   - jupyter
+  - jupyter_contrib_nbextensio
+  - jupyterlab
   - ipython
+  - ipywidgets
   - matplotlib
   - mpl_toolkits
   - numpy
+  - pandas
+  - seaborn
   - sympy
   - scipy
   - turtle
   - pylab
   - pydelay
   - scikit-image
-  
+  - networkx
+  - pip
+
+
+
+# Install a DSAP kernel
+python -m ipykernel install --user --name dsap --display-name "DSAP"
+
+# To remove and reinstall the dsap environment (if installation problems):
+# conda deactivate
+# conda env remove -n dsap
+# conda env dsap
