@@ -23,6 +23,7 @@ dependencies:
   - pip
   - pip:
     - ddint   # Scipy-based delay differential equation (DDE) solver (see also http://pydelay.sourceforge.net)
+    - PythonTurtle
     
     
 
