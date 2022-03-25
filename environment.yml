@@ -28,7 +28,7 @@ dependencies:
 
 
 # Install a DSAP kernel
-python -m ipykernel install --user --name dsap --display-name "DSAP"
+# python -m ipykernel install --user --name dsap --display-name "DSAP"
 
 # To remove and reinstall the dsap environment (if installation problems):
 # conda deactivate
