@@ -15,15 +15,15 @@ This repository accompanies *Dynamical Systems with Applications Using Python* b
 
 
 #### - [DSAP_Jupyter_notebook](http://www.doc.mmu.ac.uk/STAFF/S.Lynch/DSAP_Jupyter_Notebook.html) (HTML)
-by Dr [Stepen Lynch](http://www.doc.mmu.ac.uk/STAFF/S.Lynch), Department of Computing and Mathematics,
-Manchester Metropolitan University, UK FIMA SFHEA
+by the author, [Stepen Lynch](http://www.doc.mmu.ac.uk/STAFF/S.Lynch), Department of Computing and Mathematics,
+Manchester Metropolitan University, UK.
 
 ![img](http://www.doc.mmu.ac.uk/STAFF/S.Lynch/Jupyter_DSAP_Title.png)
 
 
-[**DSAP_Jupyter_Notebook.ipynb**](https://nbviewer.org/github/arvidl/dynamical-systems-with-applications-using-python/blob/master/notebooks/DSAP_Jupyter_Notebook.ipynb)  is slightly updated/modified from the [original](http://www.doc.mmu.ac.uk/STAFF/S.Lynch/DSAP_Jupyter_Notebook.html) (A.L. 2022-03-25)
+The [**DSAP_Jupyter_Notebook.ipynb**](https://nbviewer.org/github/arvidl/dynamical-systems-with-applications-using-python/blob/master/notebooks/DSAP_Jupyter_Notebook.ipynb)  is slightly updated/modified from the [original](http://www.doc.mmu.ac.uk/STAFF/S.Lynch/DSAP_Jupyter_Notebook.html) (A.L. 2022-03-25)
 
-The textbook is also used in [MAT230](https://www.uib.no/en/course/MAT230) "Nonlinear Differential Equations", UiB  Spring 2022
+The DSAP textbook is also used in [MAT230](https://www.uib.no/en/course/MAT230) "Nonlinear Differential Equations", UiB,  Spring 2022
 
 <!--
 
