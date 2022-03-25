@@ -20,6 +20,9 @@ Manchester Metropolitan University, UK FIMA SFHEA
 
 ![img](http://www.doc.mmu.ac.uk/STAFF/S.Lynch/Jupyter_DSAP_Title.png)
 
+
+See also [MAT230](https://www.uib.no/en/course/MAT230) (Nonlinear Differential Equations), UiB
+
 <!--
 
 ## Releases
