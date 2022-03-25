@@ -25,8 +25,7 @@ The textbook is also used in [MAT230](https://www.uib.no/en/course/MAT230) (Nonl
 
 
 
-#### [DSAP_Jupyter_Notebook.ipynb](https://nbviewer.org/github/arvidl/dynamical-systems-with-applications-using-python/blob/master/notebooks/DSAP_Jupyter_Notebook.ipynb) 
-slightly updated/modified from the [original](http://www.doc.mmu.ac.uk/STAFF/S.Lynch/DSAP_Jupyter_Notebook.html) (A.L. 2022-03-25)
+[**DSAP_Jupyter_Notebook.ipynb**](https://nbviewer.org/github/arvidl/dynamical-systems-with-applications-using-python/blob/master/notebooks/DSAP_Jupyter_Notebook.ipynb)  is slightly updated/modified from the [original](http://www.doc.mmu.ac.uk/STAFF/S.Lynch/DSAP_Jupyter_Notebook.html) (A.L. 2022-03-25)
 
 <!--
 
