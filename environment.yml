@@ -22,8 +22,8 @@ dependencies:
   - networkx
   - pip
   - pip:
-    - ddint   # Scipy-based delay differential equation (DDE) solver (see also http://pydelay.sourceforge.net)
-    - PythonTurtle
+    - ddint            # Scipy-based delay differential equation (DDE) solver (see also http://pydelay.sourceforge.net)
+    - PythonTurtle     # https://github.com/PythonTurtle/PythonTurtle
     
     
 
