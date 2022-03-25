@@ -7,7 +7,7 @@ channels:
 dependencies:
   - python=3.9
   - jupyter
-  - jupyter_contrib_nbextension
+  - jupyter_contrib_nbextensions
   - jupyterlab
   - ipython
   - ipywidgets
@@ -17,7 +17,6 @@ dependencies:
   - seaborn
   - sympy
   - scipy
-  - turtle
   - scikit-image
   - networkx
   - pip
